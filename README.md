@@ -1,4 +1,4 @@
-# Calculating cross-sectional area, wetted perimitre and hydraulic radius of a stream/channel.
+# Calculating cross-sectional area, wetted perimetre and hydraulic radius of a stream/channel.
   
 * Area:             cross-sectional area of flow (m^2^)
 * Wetted Perimeter: length of wetted contact between water and the stream bed along a cross-sectional transect (m)
